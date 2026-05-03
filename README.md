@@ -10,7 +10,7 @@ This project is a PCB built around an STM32WB for RF Bluetooth connection.
 - USB C 2.0 + ESD protection
 - Bluetooth RF connection via UFL connector
 - SWD Tag connect
-- Uart Connector
+- UART Connection
 
 ## Board Setup
 The board is 4 layers witht he following stack-up:
