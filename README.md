@@ -8,7 +8,7 @@ This project is a PCB built around an STM32WB for RF Bluetooth connection.
     - LSE 32.768KHz
 - 3.3V LDO
 - USB C 2.0 + ESD protection
-- Bluetooth RF connection via UFL connector
+- Bluetooth RF connection via UFL connector + Filtering
 - SWD Tag connect
 - UART Connection
 
