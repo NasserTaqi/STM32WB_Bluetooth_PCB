@@ -13,7 +13,7 @@ This project is a PCB built around an STM32WB for RF Bluetooth connection.
 - UART Connection
 
 ## Board Setup
-The board is 4 layers witht he following stack-up:
+The board is 4 layers with the following stack-up:
 
 Layer: 1	SIGNAL
 
